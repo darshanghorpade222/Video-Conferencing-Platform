@@ -23,6 +23,7 @@ Misba Saba
 
 ## How to Run Locally
 
+Follow these steps to run the project locally:
 ```bash
 # clone repo
 git clone https://github.com/darshanghorpade222/Video-Conferencing-Platform.git
