@@ -34,6 +34,7 @@ npm install
 npm start
 
 # go to backend
-cd ../backend
+cd ..
+cd backend
 npm install
 npm start
