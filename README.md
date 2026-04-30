@@ -20,3 +20,19 @@ Misba Saba
 ## Screenshots
 
 ![App Screenshot](./screenshot.png)
+
+## How to Run Locally
+
+```bash
+# clone repo
+git clone https://github.com/darshanghorpade222/Video-Conferencing-Platform.git
+
+# go to frontend
+cd frontend
+npm install
+npm start
+
+# go to backend
+cd ../backend
+npm install
+npm start
