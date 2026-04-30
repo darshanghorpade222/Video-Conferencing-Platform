@@ -17,3 +17,6 @@ A real-time video calling web application built using WebRTC, React, Node.js, an
 ## Developed By
 Darshan Ghorpade  
 Misba Saba
+## Screenshots
+
+![App Screenshot](./screenshot.png)
